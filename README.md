@@ -7,4 +7,4 @@ Warning: Assets may not work properly\
 \
 Future patch:\
 Interface Update\
-Resource linking\
+Resource linking
